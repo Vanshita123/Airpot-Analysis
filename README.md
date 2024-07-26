@@ -1,4 +1,4 @@
-                    # Sample Output Images Of Dashboard
+  # Sample Output Images Of Dashboard
 
 ![Screenshot 2024-07-26 193339](https://github.com/user-attachments/assets/076ddff4-9654-46c0-bea7-a89f76ace571)
 
